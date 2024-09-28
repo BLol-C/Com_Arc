@@ -1,5 +1,5 @@
 # Test
-> this is good
+> กูมั่วไอน้อง
 ```
 addi x18 x0 0xf0
 addi x19 x0 0xf
@@ -18,4 +18,3 @@ addi x19 x0 0xcc
 xor x20 x18 x19 # 1100 1100 ^ 1111 1111 = 0011 0011 = 33
 xori x21 x18 0xcc # x21 = 0x0`
 ```
-k
