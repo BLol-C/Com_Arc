@@ -1,6 +1,6 @@
 # Test
 > this is good
-``javascript
+```javascript
 addi x18 x0 0xf0
 addi x19 x0 0xf
 addi x20 x0 0x7ab
